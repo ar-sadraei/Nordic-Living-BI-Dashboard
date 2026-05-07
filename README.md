@@ -208,6 +208,6 @@ If extending this project beyond the lab scope, I would:
 
 **Amirreza Sadraei**
 MSc Computer & Systems Sciences, Stockholm University
-[LinkedIn](https://www.linkedin.com/) · [Email](mailto:ar.sadraei@outlook.com)
+[LinkedIn](https://www.linkedin.com/in/amirreza-sadraei-b98459250/) · [Email](mailto:ar.sadraei@outlook.com)
 
 > Building toward a career in BI / Data Engineering. Open to feedback and conversation.
