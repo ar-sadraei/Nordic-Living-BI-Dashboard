@@ -1,0 +1,121 @@
+CustomerID,CustomerName,Gender,Age,City,Country,CustomerSegment
+1,Rebecca Martin,Female,56,Phillipsland,Sweden,Consumer
+2,Patricia Christian,Male,49,North Autumnbury,Norway,Consumer
+3,Andrew Reeves,Female,67,Stevenchester,Denmark,Business
+4,Evan Russo,Female,48,New Tiffany,Finland,Consumer
+5,Christopher Long,Female,32,West Michaelside,Sweden,Business
+6,Cory Long,Female,62,Ellenshire,Sweden,Consumer
+7,Charles Munoz,Female,61,West Pamela,Denmark,Consumer
+8,Daniel Hunt,Male,30,Jenniferchester,Norway,Business
+9,Bryan Merritt DDS,Male,34,Lake Roy,Finland,Business
+10,Paul Campbell,Female,67,Maldonadoshire,Norway,Consumer
+11,Stephen Hensley,Male,44,Curtisport,Norway,Consumer
+12,Renee Hamilton,Female,50,Lake Donaldberg,Norway,Business
+13,David Scott,Female,61,Marshallborough,Denmark,Consumer
+14,Eric Lawson,Male,51,Jordanfort,Sweden,Consumer
+15,Scott Robinson,Male,26,Port Thomas,Norway,Consumer
+16,Tiffany Lewis,Male,70,Heatherville,Finland,Consumer
+17,Christy Watson,Female,48,Owenston,Finland,Consumer
+18,Whitney Smith,Male,51,Reedmouth,Finland,Consumer
+19,Mary Martinez,Female,33,Knappchester,Denmark,Consumer
+20,Tracy Williams,Male,40,Brianborough,Sweden,Consumer
+21,Donna Pierce,Male,74,Castanedachester,Denmark,Consumer
+22,Jay Wilson,Female,71,Troymouth,Finland,Consumer
+23,Jennifer Miller,Female,52,Jameschester,Sweden,Consumer
+24,Adam Moody,Female,30,New Ricardotown,Denmark,Consumer
+25,Edward Lewis,Female,22,Tarafurt,Denmark,Consumer
+26,Robert Turner,Female,62,Kevinfurt,Sweden,Consumer
+27,Bryan Burton,Female,73,Annaberg,Norway,Consumer
+28,Cynthia Jenkins,Female,38,New Johnfurt,Finland,Consumer
+29,Victoria Quinn,Male,61,Michaelside,Sweden,Consumer
+30,Jessica Robinson,Male,67,North Sherryberg,Denmark,Business
+31,Jennifer Ryan,Male,36,Dawnberg,Sweden,Consumer
+32,Kathryn Luna,Female,74,Saraville,Denmark,Consumer
+33,Robert Reed,Female,39,Bakerport,Denmark,Consumer
+34,Brian Haynes,Male,68,Greenbury,Norway,Consumer
+35,Joseph Miller,Female,40,South Robertchester,Denmark,Business
+36,Louis Lee,Female,36,Port Margaret,Denmark,Consumer
+37,Sara Stewart,Female,23,Thompsonmouth,Sweden,Consumer
+38,Sean Bates,Female,57,Davidville,Finland,Consumer
+39,Linda Smith,Male,73,Edwardston,Norway,Consumer
+40,Maria Meyer,Male,23,Stevenville,Sweden,Consumer
+41,Margaret Anthony,Female,23,Ryanborough,Norway,Consumer
+42,Antonio Key,Male,24,Stevenbury,Finland,Consumer
+43,Elizabeth Johnson,Male,49,East Sarah,Sweden,Business
+44,Billy Jones,Male,47,West Gloria,Norway,Consumer
+45,Marcia Hernandez,Male,34,Port Mike,Denmark,Business
+46,Julie Mcdonald,Male,60,South Jeffreyside,Norway,Business
+47,Dr. Brian Cooper MD,Female,72,New Robert,Norway,Consumer
+48,John Miranda PhD,Male,64,North Joannestad,Norway,Consumer
+49,William Stevens,Male,22,Keithmouth,Sweden,Business
+50,Jacqueline Bennett,Female,64,Allenbury,Sweden,Consumer
+51,Jordan Martinez,Female,56,New Joseph,Sweden,Consumer
+52,Robert Benitez,Male,31,New Jorge,Denmark,Consumer
+53,Wayne Davis,Female,20,Martinberg,Sweden,Consumer
+54,Jennifer Pace,Male,30,Lindsaymouth,Denmark,Business
+55,Mr. Jeremy Sandoval,Male,72,Lake Andrew,Norway,Consumer
+56,Ricky Smith,Female,42,East Carlahaven,Finland,Consumer
+57,Christopher Rogers,Male,45,Rhondaburgh,Finland,Consumer
+58,Lisa Kelley,Male,73,Davidborough,Finland,Business
+59,Nicholas Smith,Male,34,Wilsonstad,Norway,Consumer
+60,Erin Johnston,Female,64,North Sarah,Denmark,Business
+61,Christopher Bush,Female,23,Susanbury,Denmark,Consumer
+62,Christina Rivera,Female,58,Raymondview,Denmark,Consumer
+63,Marie Mack,Male,47,North Josemouth,Denmark,Consumer
+64,Vicki Harris,Male,27,Brandyville,Sweden,Business
+65,Peter Jones,Female,62,Shelbyton,Finland,Consumer
+66,Christopher Marquez,Male,73,Port Jessicashire,Denmark,Business
+67,Jennifer Koch,Male,57,Solomonmouth,Sweden,Consumer
+68,Tonya Garcia,Male,32,Port Jessica,Norway,Business
+69,Jamie English,Male,24,Riverashire,Norway,Consumer
+70,Deborah Fleming,Female,20,Martinezbury,Denmark,Consumer
+71,Eric Owens,Male,55,Jamiechester,Finland,Consumer
+72,Catherine Wolfe,Male,40,Tiffanychester,Norway,Consumer
+73,Linda Harris,Male,67,Salazartown,Sweden,Business
+74,Mia Robinson,Male,64,East Aaronstad,Finland,Consumer
+75,Nicholas Norris,Female,27,East Phillipside,Denmark,Consumer
+76,Troy Hicks,Female,53,Baldwinborough,Norway,Consumer
+77,Christopher Rivera,Female,33,Stewartstad,Denmark,Consumer
+78,Nicole Hill,Female,38,Dominichaven,Sweden,Consumer
+79,Nicolas Roberts,Male,50,Lesterland,Norway,Business
+80,Calvin Gomez,Female,53,North Scottchester,Finland,Consumer
+81,Melissa Saunders,Female,39,New Tiffany,Denmark,Consumer
+82,Jeffrey Bright,Male,24,South Amandashire,Finland,Business
+83,Patricia Ramirez MD,Male,38,New Ronald,Denmark,Business
+84,Stephen Reed,Male,18,South Debraview,Denmark,Consumer
+85,Steven Williams,Male,38,Markview,Sweden,Business
+86,Maria Jones,Female,51,South Codyport,Finland,Business
+87,Ryan Mayer,Male,39,Richardbury,Sweden,Consumer
+88,Ann Flores,Female,20,Jamesbury,Sweden,Business
+89,Holly Houston,Female,29,East Christine,Finland,Consumer
+90,Matthew Williams,Female,65,New Bryan,Denmark,Business
+91,Mason Flowers,Female,29,Monicabury,Denmark,Consumer
+92,Jeffrey Jackson,Male,54,Valeriemouth,Sweden,Consumer
+93,Wesley Murillo,Male,26,Ortizchester,Denmark,Consumer
+94,David Anderson,Male,63,Jessefurt,Finland,Business
+95,Christopher Anderson,Male,61,North Katie,Sweden,Consumer
+96,Ryan Meyers,Female,25,Masonmouth,Denmark,Consumer
+97,Susan Murphy,Female,71,Lake Jessica,Sweden,Consumer
+98,Leslie Brewer,Male,25,North Elizabeth,Norway,Consumer
+99,Eugene Mccarty,Female,39,East Ronaldland,Sweden,Consumer
+100,Corey Lynch,Male,37,Tiffanychester,Sweden,Business
+101,Megan Williams,Male,57,Lake Diana,Sweden,Consumer
+102,Larry Fowler,Male,40,Lake Nicolestad,Norway,Consumer
+103,Brianna Harris,Male,63,Lake Lauren,Finland,Consumer
+104,Brian Larson,Female,68,Lake Davidmouth,Sweden,Consumer
+105,Michelle Mendoza,Male,53,Tylermouth,Sweden,Consumer
+106,Kevin Campbell,Male,35,Port Tinamouth,Norway,Consumer
+107,Amy Jones,Female,51,East Victoria,Norway,Consumer
+108,Christopher Nichols,Female,26,Cindyville,Finland,Business
+109,Erik Cruz,Female,70,Johnnyfort,Sweden,Consumer
+110,Robert Walker,Female,33,Lake Jesse,Norway,Business
+111,Chad Velasquez,Male,28,South Rachel,Sweden,Business
+112,Heather Merritt,Female,36,Freyside,Denmark,Consumer
+113,Michelle Todd,Female,45,Wonghaven,Denmark,Business
+114,Samuel Hernandez,Female,35,South Andrew,Denmark,Business
+115,Richard Miller,Male,44,East Amy,Denmark,Business
+116,Deanna Nelson,Male,57,Ashleyside,Sweden,Consumer
+117,Joel Henry,Female,18,Miguelberg,Denmark,Consumer
+118,Destiny Olson,Female,26,Lake Colleen,Sweden,Consumer
+119,Harry Cooper,Female,31,Lake Zachary,Finland,Business
+120,Joan Russell,Male,42,Matthewberg,Sweden,Business
